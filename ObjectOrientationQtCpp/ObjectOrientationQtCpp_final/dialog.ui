@@ -27,7 +27,7 @@
    <item>
     <widget class="QPushButton" name="pushButtonYellow">
      <property name="text">
-      <string>Yello</string>
+      <string>Yellow</string>
      </property>
      <property name="autoDefault">
       <bool>false</bool>
